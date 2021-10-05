@@ -1,0 +1,23 @@
+version: "2"
+services:
+  vue-ui:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    ports:
+      - "8080:8080"
+    container_name: vue-ui
+    volumes:
+       - ./frontend:/usr/src/app/frontend
+       - /usr/src/app/frontend/node_modules
+    depends_on:
+      - "api"
+  api:
+    build:
+      context: ./api
+      dockerfile: Dockerfile
+    command: bash -c "python manage.py migrate && python manage.py runserver 0.0.0.0:8001"
+    volumes:
+      - ./api:/code
+    ports:
+      - "8001:8001"
