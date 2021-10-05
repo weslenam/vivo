@@ -1,0 +1,62 @@
+commit aeab1346e50a6555849fc91c78d1772a5308216a
+Author: Weslen Augusto <weslenam@gmail.com>
+Date:   Thu Sep 30 23:57:43 2021 -0300
+
+    Inclusao do ambiente em docker
+
+commit 2d29951f6364d954c4e14761bd96b92962caf272
+Author: Weslen Augusto <weslenam@gmail.com>
+Date:   Thu Sep 30 21:09:25 2021 -0300
+
+    Ajustes final
+
+commit 9b67139d0e3dfa94df8b7d749f074c99732456cb
+Author: Weslen Augusto <weslenam@gmail.com>
+Date:   Thu Sep 30 20:21:50 2021 -0300
+
+    Correcao de bug: estava duplicando quando o usuario estava executando a busca novamente
+
+commit b133ab3e203ce7396f5dc1e28934884257912cc6
+Author: Weslen Augusto <weslenam@gmail.com>
+Date:   Thu Sep 30 20:12:31 2021 -0300
+
+    Inclusao dos services :
+    * api de consulta dos usuarios
+    * api de consulta ao historico do usuario
+
+commit ec7db8f864d5794ab3d2977ffaf0a2e7fb1ec835
+Author: Weslen Augusto <weslenam@gmail.com>
+Date:   Thu Sep 30 20:08:30 2021 -0300
+
+    inclusao da store e modulos do usuario e historico
+
+commit 6c4fada1fdfb6b2647e7c02303ae465f7341d43d
+Author: Weslen Augusto <weslenam@gmail.com>
+Date:   Thu Sep 30 19:59:36 2021 -0300
+
+    inclusao de store (previa) e filtro de data
+    inclusao de vuetify
+
+commit a635e92ec36d9b50115f0b9ef030d2c44bb214d9
+Author: Weslen Augusto <weslenam@gmail.com>
+Date:   Thu Sep 30 19:53:15 2021 -0300
+
+    Inclusao do vuetify
+
+commit 1a1e38ce7a65229e0067b6d284328de70d2ac2df
+Author: Weslen Augusto <weslenam@gmail.com>
+Date:   Thu Sep 30 19:48:11 2021 -0300
+
+    Inclusao de libs
+
+commit 7bfd6b23b4e65a90331fbf9f4bfc9f0b44c68f5e
+Author: Weslen Augusto <weslenam@gmail.com>
+Date:   Thu Sep 30 19:46:40 2021 -0300
+
+    inclusao do vue
+
+commit 427d6b8f31894c81685e8bca067ba0ab38451bc6
+Author: Weslen Augusto <weslenam@gmail.com>
+Date:   Thu Sep 30 22:39:43 2021 +0000
+
+    Initial commit

@@ -1,0 +1,68 @@
+commit d03ef009e253a7f16842f93961de65b9ef334b00
+Author: Weslen Augusto <weslenam@gmail.com>
+Date:   Thu Sep 30 23:57:02 2021 -0300
+
+    Inclusao para ambiente docker
+
+commit c3cc560b29b005b519ef3fbf42d2b648d7d7d1cd
+Author: Weslen Augusto <weslenam@gmail.com>
+Date:   Thu Sep 30 21:40:21 2021 -0300
+
+    inclusao do readme
+
+commit 8ddc8f0ef67ad8f78d0f06c47219373aea39cbf5
+Author: Weslen Augusto <weslenam@gmail.com>
+Date:   Thu Sep 30 21:39:30 2021 -0300
+
+    Como rodar e configuracao da migrate inicial
+
+commit ea8a0d8d0eb86ea5193156b44fc1dcb008c84f26
+Author: Weslen Augusto <weslenam@gmail.com>
+Date:   Thu Sep 30 21:10:59 2021 -0300
+
+    Ajsutes finais
+
+commit 547cd8c76daa89d5c331409b1f2ae5148b550bc7
+Author: Weslen Augusto <weslenam@gmail.com>
+Date:   Thu Sep 30 20:16:11 2021 -0300
+
+    Habilitando cors e desabilitando o csrf
+
+commit 7437870500161c219548872f4876311e55a3bf3d
+Author: Weslen Augusto <weslenam@gmail.com>
+Date:   Thu Sep 30 19:35:09 2021 -0300
+
+    View configurada com
+    
+    POST (commit history)  e GET (return history saves in db)
+
+commit d6cab82cc9735e23e44861cc4e04c87058436f21
+Author: Weslen Augusto <weslenam@gmail.com>
+Date:   Thu Sep 30 19:32:41 2021 -0300
+
+    Migrates e Model
+    View index provisoria
+
+commit dd3a41b1fd9644e14bc6d8a4a5d27de21fa6de78
+Author: Weslen Augusto <weslenam@gmail.com>
+Date:   Thu Sep 30 19:24:19 2021 -0300
+
+    inclusao do django
+
+commit 13bd1acab178880e8c115948a1278c98f392d30f
+Author: Weslen Augusto <weslenam@gmail.com>
+Date:   Thu Sep 30 19:16:46 2021 -0300
+
+    inclusao do django
+
+commit d745319c4534f5bd9d8530d3547502c754fdda09
+Author: Weslen Augusto <weslenam@gmail.com>
+Date:   Thu Sep 30 19:11:17 2021 -0300
+
+    Docker e libs necessarias
+
+commit 1d6a866f86dcec9c4d3270d40de2b1dbd54ba5ad
+Author: Weslen Augusto <weslenam@gmail.com>
+Date:   Thu Sep 30 21:26:34 2021 +0000
+
+    Initial commit
