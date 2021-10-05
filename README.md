@@ -17,6 +17,7 @@ Recursos usados no Backend / API
 ```
 - Python
 - Django
+- Sqlite: banco de dados
 
 ## Requer docker e docker compose
 
