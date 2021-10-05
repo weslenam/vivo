@@ -34,9 +34,16 @@ Rodar a aplicação
 Abrir o navegador e informar o endereço conforme o orquestrador, caso esteja em ambiente local será: http://localhost:8080
 ```
 ### Pontos importantes sobre a aplicação
-- Usar o docker-compose considero como ambiente pre-produção porem para por em producao e escalavel a implantação torna-se rapida;
+- Usar o docker-compose considero como ambiente pre-produção porem para por em produção  e escalavel a implantação torna-se rapida;
 - As portas podem estar ocupadas dependendo do servidor de aplicação e antes de produção devem ser analisadas;
 - O banco de dados pode ser explorado tambem utilizando um micro-serviço para este projeto;
+
+#### Originalmente a aplicação estava no bitbucket
+[repositorio do backend] (https://bitbucket.org/weslenam/api/src/master/)
+[repositorio do frontend] (https://bitbucket.org/weslenam/frontend/src/master/)
+
+#### Arquivo como_rodar.pdf enviado anteriormente
+[como_rodar.pdf] (https://drive.google.com/file/d/17mehJO3iV-Y9RiRTQvb9oSzxFYMbeF9l/view?usp=sharing)
 
 ## Project Setup and RUN
 ```
